@@ -1,0 +1,7 @@
+﻿  CA4.cpp
+D:\Desktop\C++\CA4\CA4.cpp(366,41): warning C4101: 'e': unreferenced local variable
+D:\Desktop\C++\CA4\CA4.cpp(370,37): warning C4101: 'e': unreferenced local variable
+D:\Desktop\C++\CA4\CA4.cpp(503,23): warning C4018: '<': signed/unsigned mismatch
+D:\Desktop\C++\CA4\CA4.cpp(551,31): warning C4018: '<': signed/unsigned mismatch
+D:\Desktop\C++\CA4\CA4.cpp(676,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CA4.vcxproj -> D:\Desktop\C++\CA4\Debug\CA4.exe

@@ -1,0 +1,2 @@
+D:\Desktop\C++\CA4\Debug\CA4.exe
+D:\Desktop\C++\CA4\Debug\CA4.pdb
